@@ -1,0 +1,11 @@
+{
+  "name": "jquery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "repository": "component/jquery",
+  "resolved": "758ff8a234be009a409837fba4a19ff167e761c8"
+}

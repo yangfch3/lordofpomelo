@@ -1,0 +1,15 @@
+{
+  "name": "pomelo-protobuf",
+  "description": "pomelo-protobuf",
+  "keywords": [
+    "pomelo",
+    "protobuf"
+  ],
+  "version": "0.2.0",
+  "main": "lib/client/protobuf.js",
+  "scripts": [
+    "lib/client/protobuf.js"
+  ],
+  "repository": "https://github.com/pomelonode/pomelo-protobuf",
+  "resolved": "87bd207eae9252641113683c0728904a2df327a4"
+}
