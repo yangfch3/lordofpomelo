@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "private": false,
   "dependencies": {
-    "express": "2.5.2",
+    "express": "2.5.9",
     "everyauth": "0.3.0",
     "connect": ">=0.0.1",
     "ejs": "0.8.3",
